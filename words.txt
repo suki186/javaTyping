@@ -1,0 +1,40 @@
+Mercury
+Hermes
+revolution 88days
+rotation 59days
+Small
+Venus
+Aphrodite
+revolution 225days
+rotation 243days
+Brightness
+Earth
+revolution 365days
+rotation 24hours
+Life
+Season
+Mars
+Ares
+revolution 686days
+rotation 24.5hours
+Redness
+Jupiter
+Zeus
+revolution 12years
+rotation 10hours
+Big
+Saturn
+Kronos
+revolution 29years
+rotation 10.5hours
+Ring
+Uranus
+Uranos
+revolution 84years
+rotation 17hours
+Ice
+Neptune
+Poseidon
+revolution 164years
+rotation 16hours
+a black spot
